@@ -31,3 +31,5 @@
 
 # 打赏
 如果觉得这个项目对你有帮忙，可以请我喝杯奶茶哈
+
+<img src="https://github.com/JustWang/node-Nuggets-backend/assets/weChat.png" width="275" alt="微信"/>
