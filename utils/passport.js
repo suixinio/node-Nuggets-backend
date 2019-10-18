@@ -5,7 +5,6 @@
  * @Description: password bcrypt & validate
  */
 
-
 // https://www.npmjs.com/package/bcrypt md5加密解密
 const bcrypt = require('bcrypt');
 
