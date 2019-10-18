@@ -1,0 +1,24 @@
+{
+  "name": "koa2Project-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wangshi",
+  "license": "MIT",
+  "scripts": {
+    "dev": "NODE_ENV=development"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parse": "^0.1.0",
+    "ccap": "^0.6.10",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.9.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.12.3",
+    "mongoose": "^5.7.4",
+    "node-fetch": "^2.6.0",
+    "pm2": "^4.1.1",
+    "uuid": "^3.3.3"
+  }
+}
